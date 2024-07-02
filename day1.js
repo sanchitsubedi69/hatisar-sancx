@@ -9,7 +9,7 @@ const friend3 = 'Anup'
 const friends = ['pranjal','bob','anup',12,true]
 
 const me = {
-    name : 'sanchit subedi',
+    name : 'jeevan poudel',
     age: '20',
     address : 'itahari'
 
