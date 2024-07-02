@@ -9,8 +9,8 @@ const friend3 = 'Anup'
 const friends = ['pranjal','bob','anup',12,true]
 
 const me = {
-    name : 'manish basnet',
-    age: 22,
+    name : 'sanchit subedi',
+    age: '20',
     address : 'itahari'
-    
+
 }
